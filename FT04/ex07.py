@@ -6,4 +6,4 @@ soma = 0
 while n > 0:
     soma += n
     n -= 1
-print(soma)
+print(f"A soma dos {n} primeiros numeros naturaus é: {soma}")
